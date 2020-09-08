@@ -3,7 +3,7 @@ package a.b.c;
 public class 형변환 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// 0908 테스트 v1
 		String s = "용민천재";
 		System.out.println("s >>> : " + s);
 		Object obj = new Object();
