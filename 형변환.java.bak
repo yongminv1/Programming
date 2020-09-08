@@ -4,7 +4,6 @@ public class 형변환 {
 
 	public static void main(String[] args) {
 		// 0908 테스트 v1
-		// 0908 테스트 확인 했습니다. v1씨 오류 수정
 		String s = "용민천재";
 		System.out.println("s >>> : " + s);
 		Object obj = new Object();
